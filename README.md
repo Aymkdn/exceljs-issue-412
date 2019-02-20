@@ -3,6 +3,6 @@ Out of Heap Memory issue with ExcelJS : https://github.com/exceljs/exceljs/issue
 
 # Steps
 
-1. Clone this repository
-2. `npm install`
-3. `node index.js`
+1. Clone this repository: `git clone https://github.com/Aymkdn/exceljs-issue-412.git`
+2. Install exceljs: `npm install`
+3. Run the program: `node index.js`
